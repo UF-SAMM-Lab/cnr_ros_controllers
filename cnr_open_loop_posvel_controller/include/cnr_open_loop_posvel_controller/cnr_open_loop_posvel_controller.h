@@ -3,6 +3,7 @@
 
 
 #include <hardware_interface/joint_command_interface.h>
+#include <hardware_interface/posvelacc_command_interface.h>
 #include <ros/time.h>
 #include <sensor_msgs/JointState.h>
 #include <cnr_controller_interface/cnr_joint_command_controller_interface.h>
